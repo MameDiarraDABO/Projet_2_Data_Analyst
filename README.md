@@ -4,6 +4,6 @@
 * La trame de tableau de bord sur les clients affiliés en fichier Excel ou Google Sheets, complété avec les informations attendues par votre collègue.
 
 ## Compétences évaluées: 
-* Générer des graphiques adaptés aux types de données
-* Interpréter les informations provenant d'un dashboard
-* Synthétiser des résultats à destination d'un client
+- [x] Générer des graphiques adaptés aux types de données
+- [x] Interpréter les informations provenant d'un dashboard
+- [x] Synthétiser des résultats à destination d'un client
